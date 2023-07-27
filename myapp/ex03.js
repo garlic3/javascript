@@ -208,12 +208,13 @@ function Circle(radius){
     };
 }
 
-const circle1 = new Circle(5);
+const circle1 = new Circle(5); // new 연산자와 호출하지 않으면 일반함수로 동작
 const circle2 = new Circle(3);
 
 /* 
-    this 바인딩
+    this 바인딩(식별자와 값 연결)
     1. 일반 함수 : 전역객체
     2. 메소드 : 메소드를 호출한 객체
     3. 생성자 함수 : 생성자가 생성할 인스턴스
 */
+
