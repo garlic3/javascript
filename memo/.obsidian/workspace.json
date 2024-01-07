@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7eb16cabf5fb5652",
+    "type": "split",
+    "children": [
+      {
+        "id": "806dfac59c44d660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a6c738a48dbe35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8dfa978a824a5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d735736b638fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "572b73a974da2bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee6d039241293e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0692cad0565aa33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41fb1ef940a9422b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b463ca6a1bfcfe4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6a800d8d7b14acd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "53271647dfeaaaac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d482314202f13c2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "this.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "102e2af767517e9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "this.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773e1e43352f4b39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab81bd6c4616cdbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "this.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8dfa978a824a5ea",
+  "lastOpenFiles": [
+    "this.md",
+    "프로토타입.md",
+    "strict mode.md",
+    "빌트인 객체.md",
+    "프로퍼티 어트리뷰트.md",
+    "생성자 함수에 의한 객체 생성.md",
+    "함수와 일급 객체.md",
+    "CH4 변수.md",
+    "let, const 키워드.md",
+    "스코프.md",
+    "함수.md",
+    "객체 리터럴.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}
